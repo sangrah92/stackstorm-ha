@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: apps/v1beta1
 # Update StackStorm version here to rely on other Docker images tags
 appVersion: 3.2dev
 name: stackstorm-ha
